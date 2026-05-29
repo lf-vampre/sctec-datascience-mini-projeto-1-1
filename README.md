@@ -1,13 +1,15 @@
 <br>
 
-# 💻 Curso Datascience - Visualização de Dados e Business Intelligence. Mini Projeto Avaliativo - Módulo 1 - Semana 07
+# 💻 Curso Datascience - Visualização de Dados e Business Intelligence. 
+Mini Projeto Avaliativo - Módulo 1 - Semana 07
 
 ![Logos](./images/logos.png)
 
 <br>
 <br>
 
-# 🏪 AED (Análise Exploratória de Dados): "Utilizando a base 'Varejo' que contém registros reais de compras" 
+# 🏪 AED (Análise Exploratória de Dados): "Base 'Varejo'" 
+Utilizando a base 'Varejo' que contém registros reais de compras
 (https://www.kaggle.com/datasets/namespaiva/base-varejo/data)
 
 <br>
@@ -16,6 +18,7 @@
 
 > O desafio propõe entregar um script em Python que realize uma Análise Exploratória da base Varejo seguindo etapas claras, documentadas e reproduzíveis. Etapas obrigatórias: 
   
+<br>
 
 1. Usar pandas; outras bibliotecas são opcionais (NumPy, Matplotlib, Seaborn).
 2. Carregar a base Varejo.csv com pandas e mostrar: número de registros, colunas e tipos de dados.
@@ -31,6 +34,8 @@
 
 > Sprints das tarefas necessários para conclusão do mini projeto.
 
+<br>
+
 - **Sprint 1 (Importação dos dados):** Realização da importação dos dados na plataforma Kaggle para a IDE VsCode ou Colab, onde o script  será executado.
 - **Sprint 2 (Transformação de Strings, Integer e Float e Datetime):** Desenvolvimento das funções de limpeza de texto, inteiros e decimais usando métodos e expressões regulares.
 - **Sprint 3 (Limpeza de Nulos e Duplicatas):** Aplicação das condicionais e funções  para identificação e substituição de valores vazios e de str para valores de data tipo datetime, na tabela de varejo. 
@@ -43,7 +48,7 @@
 
  Para uma análise profunda sobre a arquitetura do código e o storytelling detalhado dos dados, consulte a seção no final deste arquivo:
 
-> **[Visualizações e Resultados](#-visualizações-e-resultados)** 
+> **[📊 Visualizações e Resultados](#-visualizações-e-resultados)** 
 
 <br>
 
@@ -118,7 +123,7 @@ O sistema imprimirá logs em tempo real e aguardará sua interação em cada eta
 
 ## 📊 Visualizações e Resultados
 
-> Abaixo estão a descrição da arquitetura utilizada no pipeline e os insights / storytelling gerados com as analises dos dados:
+> Abaixo estão a descrição da arquitetura utilizada no pipeline, os insights e storytelling gerados com as analises dos dados:
 
 <br>
 
