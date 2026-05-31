@@ -1,9 +1,8 @@
+![Logos](./images/logos.png)
 <br>
 
 # 💻 Curso Datascience - Visualização de Dados e Business Intelligence. 
 Mini Projeto Avaliativo - Módulo 1 - Semana 07
-
-![Logos](./images/logos.png)
 
 <br>
 <br>
