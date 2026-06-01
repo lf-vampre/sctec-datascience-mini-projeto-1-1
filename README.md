@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ### 💻 Uso Básico
 
-> Abra o arquivo no vscode e rode todas as células ou uma a uma para acompanhar o pipeline de dados
+> Abra o arquivo "miniprojeto_felipevampre.ipynb" no vscode e rode todas as células ou uma a uma para acompanhar o pipeline de dados
 
 
 <br>
@@ -280,4 +280,13 @@ Na sexta e última análise o objetivo era medir a volume de vendas por categori
 ---
 
 <br>
+
+### 🛠️ Histórico de Commits (git log --oneline)
+
+c948b85 (HEAD -> main, origin/main) Criação do arquivo requirements.txt e do README_FelipeVampre_TurmaV2.md
+b06d04c Atualizado o arquivo README.md
+62e0c50 Finalizado o arquivo de código 'miniprojeto_felipevampre.ipynb'.
+f57de1d Projeto será entregue em .ipynb ao invés de .py, migrando o código para o arquivo miniprojeto_felipevampre.ipynb
+4f3ca1b Esboço inicial do main.py com pré requisitos e primeiras funções.
+6a606f2 Primeiro Commit: Arquivo README.md e main.py.
 
