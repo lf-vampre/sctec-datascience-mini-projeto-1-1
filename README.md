@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ### 💻 Uso Básico
 
-> Abra o arquivo "miniprojeto_felipevampre.ipynb" no vscode e rode todas as células ou uma a uma para acompanhar o pipeline de dados
+> Abra o arquivo "miniprojeto_felipevampre.ipynb" no vscode, selecione o kernel do python do ambiente .venv e rode todas as células ou uma a uma para acompanhar o pipeline de dados
 
 
 <br>
