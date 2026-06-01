@@ -266,6 +266,7 @@ Na terceira, quarta e quinta análises o foco foi nas sazonalidades (Utilizando 
 
 Na sexta e última análise o objetivo era medir a volume de vendas por categoria de produtos. O resultado foi colocado em um gráfico de barras horizontais e ordenados da categoria com mais vendas para a que continha menos vendas. A ordem ficou: Alimentos, Higiene, Limpeza, Bebidas, Pet, Acessorios e Não Identificado.
 
+---
 
 <br>
 
